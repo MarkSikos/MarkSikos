@@ -1,8 +1,9 @@
 <div align="center">
-<img src="https://github.com/MarkSikos/MarkSikos/main/pics/octo.gif" alt="GitHub Logo" width="150" height="150" />
+	<img title="GitHub" alt="Github" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/octo.gif"width="150" height="150"/>
 </div>
 
-## Hi, I'm Mark. Welcome To My GitHub Profile !
+
+# Hi, I'm Mark. Welcome To My GitHub Profile !
 
 A Computer Science BSc passionate about Machine Learning and AI :bar_chart:. I like learining, automating, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
@@ -17,11 +18,18 @@ A Computer Science BSc passionate about Machine Learning and AI :bar_chart:. I l
 <p align="center">
 	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/hadoop.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/apache-spark-5.svg" width="80" height="50" style="vertical-align:down; margin:4px"/>
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/python-5.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="R" alt="linux" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/r-lang.svg" width="55" style="vertical-align:down; margin:4px"/>
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/mysql-6.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>	
+	<img title="pytorch" alt="pytorch" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/pytorch-icon.svg" width="40" style="vertical-align:down; margin:4px"/>	
+	<img title="tensorflow" alt="tensorflow" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/tensorflow-icon.svg" width="40" style="vertical-align:down; margin:4px"/>	
+	<img title="java" alt="java" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/java-icon.svg" width="40" style="vertical-align:down; margin:4px"/>	
+	<img title="C" alt="C" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/c-1.svg" width="40" style="vertical-align:down; margin:4px"/>	
+	<img title="C#" alt="C#" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/c--4.svg" width="40" style="vertical-align:down; margin:4px"/>	
+	<img title="MATLAB" alt="MATLAB" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/matlab.svg" width="40" style="vertical-align:down; margin:4px"/>	
+	<img title="HASKELL" alt="HASKELL" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/haskell.svg" width="40" style="vertical-align:down; margin:4px"/>	
 </p>
 
 
@@ -42,6 +50,7 @@ A Computer Science BSc passionate about Machine Learning and AI :bar_chart:. I l
   <a target="_blank" href="https://twitter.com/sikos_mark">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img>
   </a>
+  
 
 <br>
 </p>       
