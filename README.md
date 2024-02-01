@@ -7,7 +7,7 @@
 
 A Computer Science BSc passionate about Machine Learning and AI :bar_chart:. I like learining, automating, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
-- 🌱 I’m currently pursuing **Bachelors in Computer Science and Mathematics at ELTE University, Budapest**
+- 🌱 I’m currently pursuing **Bachelors in Computer Science (minor in Mathematics) at ELTE University, Budapest**
 - ⚡ **Fun fact:**  The word "nerd"🔬 was first coined by Dr. Seuss in his book "If I Ran the Zoo" published in 1950. It's a testament to the ever-evolving nature of language.
 - :bulb: I'm interested in all things related to: **AI, Machine Learning and Data Science**
 - 💬 Talk to me about Theataer, Antiquities, Anime, Movies 🎥, Amateur Photography 📸
