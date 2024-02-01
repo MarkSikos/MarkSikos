@@ -41,7 +41,7 @@ A Computer Science BSc passionate about Machine Learning and AI :bar_chart:. I l
    <br>
 <br>
 
-  <a target="_blank" href="linkedin.com/in/mark-peter-sikos-878110190">
+  <a target="_blank" href="https://linkedin.com/in/mark-peter-sikos-878110190">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
   </a>
   <a target="_blank" href="mailto:masik20009@gmail.com">
