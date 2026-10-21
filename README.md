@@ -8,7 +8,7 @@ granularities, with a focus on self-supervised and multimodal objectives.
 - 🎓 **PhD** Computer Science – University of Manchester
 - 🎓 **MSc** Autonomous Systems – ELTE, Budapest · thesis: *Neural Approximation of Affine Correspondences*
 - 🎓 **BSc** Computer Science, minor in Mathematics – ELTE, Budapest
-- 🔬 Interests: representation learning, self-supervised & multimodal learning, sequence and time-series models, learning for biomedical signals
+- 🔬 Interests: representation learning, self-supervised & multimodal learning, sequence and time-series models
 
 ## Publications
 
