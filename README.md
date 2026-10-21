@@ -26,24 +26,6 @@ granularities, with a focus on self-supervised and multimodal objectives.
 | [**AI-miniprojects**](https://github.com/MarkSikos/AI-miniprojects) | Smaller machine learning projects from work, coursework and side experiments |
 | [**Hyprland-Desktop**](https://github.com/MarkSikos/Hyprland-Desktop) | A customised Hyprland setup for Arch Linux |
 
-## Tools
-
-<p>
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/python-5.svg" width="40" height="40"/>
-	<img title="PyTorch" alt="PyTorch" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/pytorch-icon.svg" width="40" height="40"/>
-	<img title="TensorFlow" alt="TensorFlow" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/tensorflow-icon.svg" width="40" height="40"/>
-	<img title="MATLAB" alt="MATLAB" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/matlab.svg" width="40" height="40"/>
-	<img title="R" alt="R" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/r-lang.svg" width="50" height="40"/>
-	<img title="C" alt="C" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/c-1.svg" width="40" height="40"/>
-	<img title="C#" alt="C#" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/c--4.svg" width="40" height="40"/>
-	<img title="Java" alt="Java" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/java-icon.svg" width="40" height="40"/>
-	<img title="Haskell" alt="Haskell" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/haskell.svg" width="40" height="40"/>
-	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/apache-spark-5.svg" width="70" height="40"/>
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/mysql-6.svg" width="40" height="40"/>
-	<img title="Linux" alt="Linux" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/linux-tux.svg" width="40" height="40"/>
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/MarkSikos/MarkSikos/main/pics/git.svg" width="70" height="40"/>
-</p>
-
 ## Contact
 
 <a href="https://linkedin.com/in/mark-peter-sikos-878110190"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
